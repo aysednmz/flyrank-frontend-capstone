@@ -1,0 +1,5 @@
+# Frontend AI Engineering Conventions
+- Stack: HTML, CSS, JavaScript (React)
+- Always use semantic HTML.
+- Write clean, modular, and well-documented code.
+- Follow Conventional Commits format.
